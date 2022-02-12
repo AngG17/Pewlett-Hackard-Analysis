@@ -44,11 +44,11 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-   - No, there are not enough employees to mentor the number of employees that need to be replaced (mentorship_count table)
+   - No, there are not enough employees to mentor the number of employees that need to be replaced (mentorship_count table).  The ratio of new hires to mentors is quite high and might be unmanageable.  
 
 ![mentorship_count](https://user-images.githubusercontent.com/95720986/153722056-146fdf5c-5f51-4fe7-bdc2-c30b4f1944c9.png)
 
-  - The Development department has the most employees eligible for the mentorship program (department_mentor table)
+  - The Development department has the most employees eligible for the mentorship program (department_mentor table).  Do any of the employees in Development, Production or Sales have experience in other departments where they would be willing to be a mentor?
 
  ![department_mentor](https://user-images.githubusercontent.com/95720986/153724611-5fcd4b1e-bb3f-4a33-b74e-17f0d4ff2419.png)
 
